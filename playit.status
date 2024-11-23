@@ -1,4474 +1,1168 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732372183017 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732381151978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372186408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381155047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372189643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381158124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372192720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381161183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372195813 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381164263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372198871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381167481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372201933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381170585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372204989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381173645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372208049 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381176716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372211111 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381179773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372214228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381182865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372217296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381185930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372220374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381188996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372223480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381192136 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372226541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381195324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372229599 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381198418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372232675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381201508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372235750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381204615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372238812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381207693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372241873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381210788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372244930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381213874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372247988 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381216961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372251063 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381220158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372254150 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381223261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372257221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381226318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372260282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381229383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372263345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381232475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372266400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381235550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372269460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381238617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372272519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381241685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372275574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381244764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372278641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381247837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372281826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381250909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372284941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381253985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372288005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381257056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372291077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381260126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372294150 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381263199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372297207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381266265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372300286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381269328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372303344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381272397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372306423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381275485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372309483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381278617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372312630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381281682 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372315691 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381284763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372318761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381287853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372321826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381290923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372324886 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381294004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372327945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381297087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372331024 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381300205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372334108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381303277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372337169 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381306355 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372340226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381309422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372343313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381312483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372346373 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381315578 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372349454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381318642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372352512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381321741 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372355628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381324816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372358698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381327883 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372361756 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381330939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372364834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381334024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372367903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381337102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372370976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381340164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372374038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381343223 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372377105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381346296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372380181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381349360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372383239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381352417 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372386436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381355547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372389506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381358611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372392580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381361672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372395652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381364740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372398712 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381367811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372401771 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381370875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372404829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381373937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372407894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381377004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372410964 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381380101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372414052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381383179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372417116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381386249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372420174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381389322 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372423238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381392498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372426315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381395567 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372429375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381398628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372432438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381401716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372435505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381404804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372438570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381407874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372441635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381410962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372444705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381414036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372447771 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381417104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372450840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381420166 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372453898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381423240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372456954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381426305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372460016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381429370 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372463074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381432561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372466133 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381435750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372469193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381438808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372472253 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381441889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372475321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381444958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372478393 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381448018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372481458 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381451081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372484540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381454202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372487609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381457268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372490761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381460327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372493832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381463432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372496907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381466509 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372499985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381469586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372503047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381472664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372506109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381475821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372509180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381478897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372512247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381482025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372515308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381485091 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372518405 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381488152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372521516 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381491230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372524573 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381494311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372527631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381497433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372530696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381500511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372533847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381503620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372536910 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381506737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372539967 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381509808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372543128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381512868 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372546196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381515932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372549256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381518997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372552369 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381522080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372555486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381525147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372558619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381528379 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372561692 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381531444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372564763 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381534513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372567823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381537605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372570885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381540663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372573954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381543733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372577010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381546806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372580082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381549872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372583164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381552979 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372586274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381556045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372589587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381559110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372592648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381562177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372595719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381565239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372598778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381568320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372601862 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381571378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372604922 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381574447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372607985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381577527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372611043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381580617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372614106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381583708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372617165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381586806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372620245 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381589869 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372623304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381592952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372626364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381596021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372629432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381599082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372632513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381602156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372635569 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381605228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372638632 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381608304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372641693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381611364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372644773 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381614435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372647840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381617496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372650900 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381620552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372654079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381623627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372657151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381626691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372660219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381629749 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372663301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381632823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372666403 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381635884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372669468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381638982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372672527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381642048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372675583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381645119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372678646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381648181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372681784 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381651239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372684849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381654305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372687924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381657366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372690982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381660427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372694039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381663504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372697108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381666587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372700182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381669654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372703269 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381672728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372706344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381675797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372709406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381678882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372712464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381681938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372715524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381684996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372718590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381688054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372721652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381691133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372724766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381694205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372727832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381697272 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372730925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381700334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372733982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381703405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372737038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381706735 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372740094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381709899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372743163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381712955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372746219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381716013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372749274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381719074 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372752331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381722128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372755417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381725210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372758541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381728269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372761605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381731341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372764680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381734404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372767749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381737587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372770823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381740654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372773885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381743706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372776941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381746780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372780002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372783079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372786141 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372789208 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372792277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372795336 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372798415 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372801501 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372804555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372807614 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372810670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372813727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372816780 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372819842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372822915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372825971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372829058 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372832118 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372835176 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372838252 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372841309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372844371 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372847499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372850554 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372853636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372856702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372859771 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372862842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372865911 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372868991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372872058 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372875135 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372878202 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372881265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372884602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372887661 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372890731 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372893809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372896873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372899953 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372903218 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372906293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372909372 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372912433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372915512 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372918595 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372921670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372924737 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372927802 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372930969 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372934031 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372937098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372940155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372943297 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372946355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372949427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372952648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372955715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372958774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372961850 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372964906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372967966 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372971297 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372974367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372977442 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372980616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372983688 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372986795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372989857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372992923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372995993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732372999100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373002179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373005250 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373008334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373011580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373014936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373018001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373021185 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373024247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373027305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373030546 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373033605 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373036684 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373039770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373042845 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373045919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373048992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373052144 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373055203 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373058319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373061394 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373064459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373067519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373070596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373073788 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373076977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373080082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373083138 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373086225 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373089372 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373092516 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373095575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373098698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373101767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373104936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373108047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373111110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373114259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373117408 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373120478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373123538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373126609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373129678 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373132746 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373135876 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373139020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373142085 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373145165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373148244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373151341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373154399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373157653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373160761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373163825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373166887 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373169947 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373173009 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373176070 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373179130 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373182226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373185296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373188364 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373191437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373194509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373197567 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373200826 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373203903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373207284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373210357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373213457 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373216524 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373219581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373222641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373225706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373228764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373231872 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373234932 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373238008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373241078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373244498 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373247557 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373250613 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373253690 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373256748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373259833 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373262912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373265973 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373269045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373272105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373275163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373278221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373281287 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373284345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373287438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373290507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373293577 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373296649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373299723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373302834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373305910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373308975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373312048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373315114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373318192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373321268 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373324337 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373327397 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373330467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373333541 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373336609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373339679 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373342743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373345801 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373348878 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373351957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373355015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373358070 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373361145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373364222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373367282 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373370342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373373443 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373376521 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373379586 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373382665 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373385817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373388889 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373391949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373395055 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373398158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373401238 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373404309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373407381 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373410468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373413546 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373416613 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373419675 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373422733 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373425822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373428880 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373431946 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373435014 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373438084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373441208 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373444266 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373447331 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373450392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373453452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373456515 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373459578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373462643 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373465706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373468767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373471835 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373474898 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373477960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373481026 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373484084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373487169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373490238 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373493300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373496367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373499429 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373502494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373505553 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373508616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373511693 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373514774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373517836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373520897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373523964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373527025 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373530115 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373533192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373536260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373539324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373542399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373545470 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373548535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373551596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373554658 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373557718 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373560777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373563845 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373566913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373569971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373573042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373576109 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373579171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373582232 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373585293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373588352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373591411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373594480 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373597539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373600600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373603667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373606728 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373609801 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373612873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373615936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373618992 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373622116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373625191 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373628253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373631314 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373634395 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373637536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373640762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373643826 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373646941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373650026 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373653107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373656172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373659243 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373662325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373665391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373668475 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373671543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373674600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373677669 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373680730 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373683810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373686899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373689970 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373693041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373696114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373699185 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373702265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373705345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373708407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373711483 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373714590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373717666 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373720726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373723820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373726885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373729942 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373733020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373736088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373739147 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373742229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373745288 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373748355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373751416 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373754500 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373757561 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373760621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373763689 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373766745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373769805 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373772874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373775941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373779006 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373782066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373785125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373788199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373791263 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373794349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373797417 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373800490 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373803551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373806609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373809682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373812752 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373815818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373818876 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373821949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373825012 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373828159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373831308 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373834371 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373837789 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373840851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373843999 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373847172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373850239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373853321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373856386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373859464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373862525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373865672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373868750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373871810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373874869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373877946 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373881016 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373884146 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373887201 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373890257 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373893326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373896387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373899479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373902541 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373905943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373909012 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373912360 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373915418 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373918503 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373921578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373924645 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373927704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373930764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373933825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373936884 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373939946 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373943024 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373946100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373949165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373952225 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373955286 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373958345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373961423 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373964489 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373967551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373970630 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373973691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373976757 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373979825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373982886 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373985945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373989007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373992068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373995128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732373998315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374001379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374004439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374007525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374010601 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374013659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374016718 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374019797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374022860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374025920 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374028987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374032049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374035150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374038217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374041281 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374044357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374047414 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374050473 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374053556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374056628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374059690 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374062755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374065819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374068880 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374071944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374075011 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374078074 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374081138 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374084210 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374087287 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374090354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374093424 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374096486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374099549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374102617 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374105676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374108746 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374111820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374114888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374117955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374121031 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374124091 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374127152 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374130209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374133272 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374136340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374139412 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374142473 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374145531 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374148592 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374151648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374154711 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374157783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374160857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374163923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374166986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374170047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374173121 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374176194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374179328 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374182386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374185444 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374188511 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374191583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374194647 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374197723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374200779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374203853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374206910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374209979 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374213042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374216100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374219159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374222217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374225361 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374228430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374231484 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374234547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374237638 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374240728 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374243787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374246851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374249912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374253070 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374256127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374259296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374262356 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374265414 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374268478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374271600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374274673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374277731 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374281069 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374284141 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374287202 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374290257 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374293315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374296384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374299439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374302520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374305594 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374308659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374311730 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374314792 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374317863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374320929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374324005 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374327073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374330140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374333220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374336293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374339357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374342436 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374345501 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374348581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374351654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374354710 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374357770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374360849 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374363910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374366968 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374370024 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374373093 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374376162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374379232 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374382299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374385355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374388419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374391477 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374394547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374397607 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374400667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374403737 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374406794 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374409853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374412912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374415974 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374419042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374422124 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374425190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374428254 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374431312 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374434387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374437446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374440519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374443587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374446660 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374449732 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374452810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374455868 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374458957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374462022 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374465108 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374468167 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374471229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374474294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-functions-upcoming.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-debt-dpi.gl.at.ply.gg:3906 => 127.0.0.1:3906 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732374477380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732381749861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
